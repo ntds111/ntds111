@@ -16,5 +16,5 @@ Currently formalizing dimensional models, data tests, and documentation at Keley
 
 ## Contact
 
-- LinkedIn: [ntds111]([https://linkedin.com/in/ntds111](https://www.linkedin.com/in/nurgul-t-ba6a8bab/))
+- LinkedIn: [ntds111]([https://linkedin.com/in/ntds111](https://www.linkedin.com/in/nurgul-t-ba6a8bab/)) 
 - Email: [contact@example.com](ntokzhanova@gmail.com)
