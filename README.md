@@ -1,20 +1,32 @@
-# ntds111
+# Nurgul Tokzhanova — Data Engineer (Berlin)
 
-Data Engineer with 5 years of experience building end-to-end data infrastructure across Digital Health, E-Commerce, Finance, and IT Consulting. 
+Hi, I'm Nurgul 👋
 
-Hands-on expertise in AWS (Lambda, S3, Glue, RDS, Step Functions), infrastructure-as-code (Terraform), Python, SQL, and dimensional modeling. Currently at Keleya working on transformation layer arc[...]
+Data Engineer based in Berlin. I build and own data platforms end to end — ingestion, orchestration, warehouse modelling, and the infrastructure underneath.
 
-## Skills
+I came into engineering through BI and analytics, so I tend to build backwards from the question someone actually needs answered.
 
-- **Cloud Infrastructure** — AWS (Lambda, S3, Glue, RDS, Step Functions), Terraform
-- **Data Engineering** — Python, SQL, ETL/ELT, dimensional modeling, data warehouse design
-- **Domains** — Digital Health, E-Commerce, Finance, IT Consulting
+## Currently
 
-## Work
+Owning the data platform at a digital health company: PostgreSQL warehouse, ELT on AWS provisioned with Terraform. Right now I'm formalising the transformation layer — dimensional models, tests, documentation.
 
-Currently formalizing dimensional models, data tests, and documentation at Keleya. Focus on scalable pipelines, cloud infrastructure, and data warehouse delivery.
+## Working with
 
-## Contact
+Languages: Python · SQL
 
-- LinkedIn: [Nurgul T. Tokzhanova](https://www.linkedin.com/in/nurgul-t-ba6a8bab/)
+Cloud: AWS (Lambda, Step Functions, Glue, S3, RDS, Athena) · Terraform · Docker
+
+Data: PostgreSQL · dimensional modelling · ELT/ETL · Parquet
+
+BI: QuickSight · Tableau
+
+## Background
+
+~5 years in data roles across digital health, e-commerce, finance and IT consulting. Things I've built along the way: an API-to-S3 ingestion pipeline feeding quality scoring for 500+ partner shops, a manual insurance billing workflow rebuilt as a Step Functions state machine, campaign reporting automated end to end from extraction through SFTP delivery and email alerts.
+
+## Elsewhere
+
+- LinkedIn: https://www.linkedin.com/in/nurgul-t-ba6a8bab/
 - Email: [ntokzhanova@gmail.com](mailto:ntokzhanova@gmail.com)
+
+Languages: English · German · Russian · Kazakh
