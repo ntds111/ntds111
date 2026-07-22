@@ -1,16 +1,20 @@
-## Hi there 👋
+# ntds111
 
-<!--
-**ntds111/ntds111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer with 5 years of experience building end-to-end data infrastructure across Digital Health, E-Commerce, Finance, and IT Consulting. 
 
-Here are some ideas to get you started:
+Hands-on expertise in AWS (Lambda, S3, Glue, RDS, Step Functions), infrastructure-as-code (Terraform), Python, SQL, and dimensional modeling. Currently at Keleya working on transformation layer architecture, data quality, and pipeline automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Cloud Infrastructure** — AWS (Lambda, S3, Glue, RDS, Step Functions), Terraform
+- **Data Engineering** — Python, SQL, ETL/ELT, dimensional modeling, data warehouse design
+- **Domains** — Digital Health, E-Commerce, Finance, IT Consulting
+
+## Work
+
+Currently formalizing dimensional models, data tests, and documentation at Keleya. Focus on scalable pipelines, cloud infrastructure, and data warehouse delivery.
+
+## Contact
+
+- LinkedIn: [ntds111](https://linkedin.com/in/ntds111)
+- Email: [contact@example.com](mailto:contact@example.com)
