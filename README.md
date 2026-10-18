@@ -1,32 +1,20 @@
 # Nurgul Tokzhanova — Data Engineer (Berlin)
-
-Hi, I'm Nurgul 👋
-
-Data Engineer based in Berlin. I build and own data platforms end to end — ingestion, orchestration, warehouse modelling, and the infrastructure underneath.
-
-I came into engineering through BI and analytics, so I tend to build backwards from the question someone actually needs answered.
-
+ 
+Hi, I'm Nurgul 👋 I build and run production data pipelines on AWS, working closely with business teams and analysts.
+ 
 ## Currently
-
-Owning the data platform at a digital health company: PostgreSQL warehouse, ELT on AWS provisioned with Terraform. Right now I'm formalising the transformation layer — dimensional models, tests, documentation.
-
+ 
+Data Engineer at **NOW GmbH** — Lambda & Step Functions pipelines with data validation, Glue crawlers, Athena views, GitHub Actions CI/CD and OpenTofu.
+ 
 ## Working with
-
-Languages: Python · SQL
-
-Cloud: AWS (Lambda, Step Functions, Glue, S3, RDS, Athena) · Terraform · Docker
-
-Data: PostgreSQL · dimensional modelling · ELT/ETL · Parquet
-
-BI: QuickSight · Tableau
-
+ 
+Python · SQL · AWS (Lambda, Step Functions, Glue, Athena, S3, RDS) · OpenTofu · Terraform · GitHub Actions · Docker · PostgreSQL · QuickSight · Tableau
+ 
 ## Background
-
-~5 years in data roles across digital health, e-commerce, finance and IT consulting. Things I've built along the way: an API-to-S3 ingestion pipeline feeding quality scoring for 500+ partner shops, a manual insurance billing workflow rebuilt as a Step Functions state machine, campaign reporting automated end to end from extraction through SFTP delivery and email alerts.
-
+ 
+5+ years in data across mobility, digital health, e-commerce and IT consulting — including sole data engineer at a digital health company.
+ 
 ## Elsewhere
-
-- LinkedIn: https://www.linkedin.com/in/nurgul-t-ba6a8bab/
-- Email: [ntokzhanova@gmail.com](mailto:ntokzhanova@gmail.com)
-
-Languages: English · German · Russian · Kazakh
+ 
+[LinkedIn](https://www.linkedin.com/in/nurgul-t-ba6a8bab/) · [Email](mailto:ntokzhanova@gmail.com)
+ 
